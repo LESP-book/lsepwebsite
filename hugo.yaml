@@ -18,7 +18,7 @@ params:
   # 是否禁用主题切换按钮
   disableThemeToggle: false
   assets:
-    favicon: "/picture/huzhang.png" # 需要在static文件夹放置对应的图片
+    favicon: "/static/huzhang.png" # 需要在static文件夹放置对应的图片
     iconHeight: 35
 
   homeInfoParams:
@@ -27,7 +27,7 @@ params:
      >
       👋 欢迎来到无产阶级解放斗争协会!
 
-      - 如果想要了解更多，请访问我们论坛和网站 [论坛](https://www.lsepcn.com) [网站](https://sg.lsepcn.com).
+      - 如果想要了解更多，请访问我们的[论坛](https://www.lsepcn.com)和[网站](https://sg.lsepcn.com).
 
      
 
@@ -38,7 +38,7 @@ params:
   # 网站头像设置 (显示在导航栏)
   label:
     text: "无产阶级解放斗争协会"
-    icon: "/picture/huzhang.png" # 这将显示在导航栏标题旁边。需要在static文件夹放置对应的图片
+    icon: "/static/huzhang.png" # 这将显示在导航栏标题旁边。需要在static文件夹放置对应的图片
     iconHeight: 35
 
   # 社交图标 (显示在简介下方)
