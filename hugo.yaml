@@ -6,8 +6,11 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: 欢迎来到无产阶级解放斗争协会
+    Content: >
+     如果想要了解更多，请访问以下网址
+    - https://www.lsepcn.com
+    - https://sg.lsep.com
 
   socialIcons: # optional
     - name: github
