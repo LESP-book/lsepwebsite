@@ -2,3 +2,15 @@ baseURL: https://www.lsepcn.com/
 languageCode: zh
 title: 无产阶级解放斗争协会
 theme: ["PaperMod"]
+
+
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
+  socialIcons: # optional
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/LESP-book"
+  
