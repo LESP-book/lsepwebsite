@@ -1,6 +1,6 @@
 baseURL: https://lsepcn.pages.dev
 languageCode: "zh-CN"
-title: 无产阶级解放斗争协会
+title: 国际工人联合会
 theme: "PaperMod"
 
 
@@ -17,17 +17,25 @@ params:
   ShowShareButtons: true
   # 是否禁用主题切换按钮
   disableThemeToggle: false
+  # defaultTheme: light
+  # defaultTheme: dark
+  defaultTheme: light # to switch between dark or light according to browser theme
   assets:
     favicon: "/static/huzhang.png" # 需要在static文件夹放置对应的图片
     iconHeight: 35
 
   homeInfoParams:
-    Title: 欢迎来到无产阶级解放斗争协会
+    Title: 国际工人联合会
     Content:
      >
-      👋 欢迎来到无产阶级解放斗争协会!
+      👋 欢迎来到国际工人联合会!
 
-      - 如果想要了解更多，请访问我们的[论坛](https://www.lsepcn.com)和[网站](https://sg.lsepcn.com).
+      - 如果想要了解更多，请通过以下中转连接访问我们的论坛。
+      -[中转连接1]（https://rszzz.red1949.workers.dev）
+      -[中转连接2]（https://jolly-union-e3b4.red1949.workers.dev）
+      -[中转连接3]（https://aged-breeze-ae50.red1949.workers.dev）
+      -[中转连接4]（https://dry-wildflower-2511.red1949.workers.dev）
+
 
      
 
@@ -37,8 +45,8 @@ params:
 
   # 网站头像设置 (显示在导航栏)
   label:
-    text: "无产阶级解放斗争协会"
-    icon: "/static/huzhang.png" # 这将显示在导航栏标题旁边。需要在static文件夹放置对应的图片
+    text: "国际工人联合会"
+    icon: "https://image.us-lax-1.linodeobjects.com/icon.png" # 这将显示在导航栏标题旁边。需要在static文件夹放置对应的图片
     iconHeight: 35
 
   # 社交图标 (显示在简介下方)
