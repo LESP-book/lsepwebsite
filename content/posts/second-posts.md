@@ -79,8 +79,6 @@ date: 2025-03-30
 这时你可以试试打开：
 
 - https://www.google.com  
-- https://www.youtube.com  
-- https://twitter.com  
 - https://scholar.google.com（谷歌学术）
 
 是不是可以正常访问了？😎
