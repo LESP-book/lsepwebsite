@@ -22,17 +22,17 @@ Tor浏览器的中文官方网址：[https://www.torproject.org/zh-CN/](https://
 
 2.选择语言，点击OK
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image.png)
+![image.png](https://image.us-lax-1.linodeobjects.com/tor/image.png)
 
 3.选择安装位置，点击“安装”
 
 **Tor浏览器是一款便携的软件，你可以直接将其安装到你的U盘中，方便携带，在U盘中使用该浏览器，也不易在电脑中留下使用痕迹**
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image%201.png)
+![image1.png](https://image.us-lax-1.linodeobjects.com/tor/image1.png)
 
 4.安装完成，将看到安装目录下的Tor Browser文件夹
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image%202.png)
+![image2.png](https://image.us-lax-1.linodeobjects.com/tor/image2.png)
 
 三、使用VPN连接外网
 
@@ -40,7 +40,7 @@ Tor浏览器的中文官方网址：[https://www.torproject.org/zh-CN/](https://
 
 **注意，必须使用VPN的全局模式进行连接**
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image%203.png)
+![image3.png](https://image.us-lax-1.linodeobjects.com/tor/image3.png)
 
 连接完成后，可以使用IP测试网站，测试自己的IP是否已经处于境外
 
@@ -52,15 +52,15 @@ IP测试网站例如：[https://whatismyipaddress.com/](https://whatismyipaddres
 
 2.确保你已经使用全局模式的VPN连接上了外网，然后点击Tor浏览器中的“连接”
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image%204.png)
+![image4.png](https://image.us-lax-1.linodeobjects.com/tor/image4.png)
 
 3.等待进度条
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image%205.png)
+![image5.png](https://image.us-lax-1.linodeobjects.com/tor/image5.png)
 
 4.当你看到如下页面时，说明Tor网络连接成功，你也可以使用IP测试网站，测试自己的IP是否与自己的实际地址和VPN节点地址都不同
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image%206.png)
+![image6.png](https://image.us-lax-1.linodeobjects.com/tor/image6.png)
 
 接下来，你可以在Tor浏览器中输入网址，开始访问论坛了
 
@@ -68,22 +68,22 @@ IP测试网站例如：[https://whatismyipaddress.com/](https://whatismyipaddres
 
 有一些VPN客户端（例如Clash、V2Ray）无法直接连接Tor网络，需要配置连接
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image%207.png)
+![image7.png](https://image.us-lax-1.linodeobjects.com/tor/image7.png)
 
 重启浏览器，点击配置连接……
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image%208.png)
+![image8.png](https://image.us-lax-1.linodeobjects.com/tor/image8.png)
 
 在左侧的“连接”中，将页面划到底端，进入进阶中的“设置”
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image%209.png)
+![image9.png](https://image.us-lax-1.linodeobjects.com/tor/image9.png)
 
 在以下的连接设置中，勾选“我通过代理连接互联网”，代理类型选择SOCKS5，地址填写127.0.0.1，端口填写你的VPN的端口号，设置完成后点击“确定”
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image%2010.png)
+![image10.png](https://image.us-lax-1.linodeobjects.com/tor/image10.png)
 
 Ps：以Clash为例，你可以在“常规（General）”选项中查询端口号（Port）
 
-![image.png](Tor%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%20185ea039fb3980488e26f3f8dcedc0d8/image%2011.png)
+![image11.png](https://image.us-lax-1.linodeobjects.com/tor/image11.png)
 
 设置完成后，再次点击Tor浏览器首页的“连接”即可成功连接Tor网络
