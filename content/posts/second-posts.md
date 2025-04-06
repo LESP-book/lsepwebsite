@@ -107,8 +107,7 @@ date: 2025-03-30
 | 名称 | 优点 | 支持设备 | 官网地址 |
 |------|------|----------|----------|
 | **Clash.Meta + 节点订阅（推荐！）** | 免费软件+订阅服务，速度快、性价比高 | 全平台 | 软件：[Clash Verge](https://github.com/zzzgydi/clash-verge)；订阅服务见下 |  
-| **iKuuu VPN** | 中文界面，支付宝/微信可付费，简单易用 | iOS/Android/PC | [https://www.ikuuvpn.com](https://www.ikuuvpn.com) |
-| **Shadowrocket + 节点订阅** | iPhone用户首选，功能强大 | iOS（App Store购买） | 软件需付费购买；节点订阅参考下一项 |
+| **ZoogVPN** | 中文界面，支付宝可付费，简单易用，有免费额度 | iOS/Android/PC | [https://zoogvpn.com/zh-cn](https://zoogvpn.com/zh-cn/) |
 | **机场推荐（提供节点订阅链接）** | 支持 Clash / Shadowrocket 等 | 全平台 | 可搜索：**Just My Socks**、**猫耳机场**、**SSCombo**、**HutaoNet**（小火箭机场） |
 
 > 🧠**小提示**：想用最稳的方式？就用 Clash + 高质量机场订阅，速度快、价格便宜。
