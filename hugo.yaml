@@ -1,6 +1,6 @@
 baseURL: https://paris.pages.dev
 languageCode: "zh-CN"
-title: 国际工人协会
+title: 国际巴黎联合会
 theme: "PaperMod"
 
 
@@ -25,10 +25,10 @@ params:
     iconHeight: 35
 
   homeInfoParams:
-    Title: 国际工人协会
+    Title: 国际巴黎联合会
     Content:
      >
-      👋 欢迎来到国际工人协会!
+      👋 欢迎来到国际巴黎联合会!
 
       - 如果想要了解更多，请通过以下中转连接访问我们的论坛。
       
@@ -43,18 +43,13 @@ params:
 
   # 网站头像设置 (显示在导航栏)
   label:
-    text: "国际工人协会"
+    text: "国际巴黎联合会"
     icon: "https://image.us-lax-1.linodeobjects.com/icon.png" # 这将显示在导航栏标题旁边。需要在static文件夹放置对应的图片
     iconHeight: 35
 
   # 社交图标 (显示在简介下方)
-  socialIcons:
-    - name: bilibili
-      url: ""
-    - name: github
-      url: ""
-    - name: telegram
-      url: ""
+
+
     # 可以添加更多社交图标 https://github.com/adityatelange/hugo-PaperMod/wiki/Icons
 
 # 顶部导航栏的快捷链接
