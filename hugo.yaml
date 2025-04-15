@@ -1,6 +1,6 @@
-baseURL: https://gjgr.pages.dev
+baseURL: https://gjbolin.pages.dev
 languageCode: "zh-CN"
-title: 国际工人协会
+title: 国际柏林联合会
 theme: "PaperMod"
 
 
@@ -25,10 +25,10 @@ params:
     iconHeight: 35
 
   homeInfoParams:
-    Title: 国际工人协会
+    Title: 国际柏林联合会
     Content:
      >
-      👋 欢迎来到国际工人协会!
+      👋 欢迎来到国际柏林联合会!
 
       - 如果想要了解更多，请通过以下中转连接访问我们的论坛。
       
@@ -50,10 +50,6 @@ params:
   # 社交图标 (显示在简介下方)
   socialIcons:
     - name: bilibili
-      url: ""
-    - name: github
-      url: ""
-    - name: telegram
       url: ""
     # 可以添加更多社交图标 https://github.com/adityatelange/hugo-PaperMod/wiki/Icons
 
