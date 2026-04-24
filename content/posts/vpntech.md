@@ -43,7 +43,7 @@ date: 2025-03-30
 |----------------|--------------|------------------|-----------------------------------|------------------|
 | **ZoogVPN**     | VPN          | 支持支付宝 / 银联 | 支持免费试用，客户端简洁，易上手   | https://zoogvpn.com/zh |
 | **Just My Socks** | 机场（SS代理订阅） | 支持支付宝        | 老牌稳定，适合 Clash / SingBox 使用 | https://justmysocks.net |
-| **HutaoNet**    | 机场（Vmess订阅） | 支持微信 / 支付宝 | 支持 SingBox、Clash，稳定高速     | https://hutao.cloud |
+| **机场推荐**    | 机场 | 支持微信 / 支付宝（具体看评测） | 支持 SingBox、Clash，稳定高速     | https://github.com/lynkco01/jichangtuijian |
 
 > **说明：**“机场”是一种付费订阅服务，提供代理节点链接，适合长期使用；VPN 则更适合完全不懂配置的用户。
 
@@ -59,9 +59,9 @@ date: 2025-03-30
 ### 【2】iPhone / iPad 用户
 
 - VPN 用户：ZoogVPN 官方客户端即可  
-- 推荐工具：**SingBox iOS 版**  
-- 安装方式：可从 [SingBox 官方 GitHub](https://github.com/SagerNet/sing-box) 获取描述文件或通过 TestFlight 测试版获取  
-- 支持订阅导入（推荐订阅来源：HutaoNet、Just My Socks）
+- 推荐工具：**hiddify**或小火箭  
+- 安装方式：可从 [hiddify官方 GitHub]([https://github.com/SagerNet/sing-box](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1)) 获取描述文件或通过appstore获取 （需要外区苹果账户） 
+- 支持订阅导入
 
 ### 【3】安卓用户
 
@@ -70,11 +70,11 @@ date: 2025-03-30
 
 ---
 
-## 六、SingBox 简单使用说明（以 iPhone 为例）
+## 六、hiddify 简单使用说明（以 iPhone 为例）
 
-1. 获取 SingBox 客户端（可通过 TestFlight 安装）  
-2. 注册一个订阅服务商账号（如 HutaoNet）并完成付款  
-3. 在订阅服务后台获取链接，复制后粘贴到 SingBox 中“添加订阅”  
+1. 获取 hiddify 客户端（可通过 appstore 安装）  
+2. 注册一个订阅服务商账号（如 Just My Socks）并完成付款  
+3. 在订阅服务后台获取链接，复制后粘贴到 hiddify 中“添加订阅”  
 4. 同步订阅内容，选择一个稳定的节点（如日本、新加坡）  
 5. 点击“启动代理”，此时即处于“翻墙”状态
 
@@ -96,8 +96,8 @@ date: 2025-03-30
 | 用户类型       | 推荐方案                                |
 |----------------|-----------------------------------------|
 | 不懂技术的新手 | ZoogVPN（直接一键使用）                  |
-| 想长期使用     | HutaoNet / Just My Socks + SingBox / Clash |
-| iPhone 用户    | SingBox + 订阅服务商                    |
-| 安卓用户       | SingBox / Clash for Android + 节点订阅     |
+| 想长期使用     |  机场 / Just My Socks + hiddify / Clash |
+| iPhone 用户    | hiddify + 订阅服务商                    |
+| 安卓用户       | hiddify / Clash for Android + 节点订阅     |
 
 ---
